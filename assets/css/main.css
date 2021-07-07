@@ -1707,14 +1707,14 @@
 		}
 
 		.image.avatar48 {
-			width: 65px;
-			height: 65px;
+			width: 80px;
+			height: 80px;
 			background: #f00;
 		}
 
 			.image.avatar48 img {
-				width: 65px;
-				height: 65px;
+				width: 80px;
+				height: 80px;
 			}
 
 		.image.fit {
@@ -2046,21 +2046,21 @@
 			position: relative;
 			color: #fff;
 			font-weight: 600;
-			font-size: 1em;
+			font-size: 1.2em;
 			line-height: 1em;
 		}
 
 		#logo p {
 			position: relative;
 			display: block;
-			font-size: 0.6em;
+			font-size: 0.72em;
 			color: rgba(255, 255, 255, 0.5);
 			line-height: 1.25em;
 			margin: 0.5em 0 0 0;
 		}
 
 		#logo .image {
-			position: absolute;
+			/*position: absolute;*/
 			left: 0;
 			top: 0;
 		}
